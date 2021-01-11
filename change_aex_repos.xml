@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-	<remote  name="apon" fetch="https://github.com/Apon77" />
+	<remote  name="DhruvChhura" fetch="https://github.com/DhruvChhura" />
 
         #Frameworks base
 	<remove-project name="platform_frameworks_base" />
