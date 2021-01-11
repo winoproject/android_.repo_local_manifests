@@ -10,6 +10,6 @@
  
  	<project path="device/xiaomi/ysl" name="android_device_xiaomi_ysl1" remote="dhruvchhura" revision="wifi"/>
 	<project path="kernel/xiaomi/ysl" name="kernel_xiaomi_ysl" remote="dhruv1" revision="stx" />
-	<project path="vendor/xiaomi" name="vendor" remote="apon" revision="aex"/>
+	<project path="vendor/xiaomi" name="xiaomi_vendor_ysl" remote="dhruv2" revision="11"/>
 
 </manifest>
