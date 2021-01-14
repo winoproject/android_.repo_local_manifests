@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<project path="device/oneplus/cheeseburger" name="Wino/lineage" remote="github" revision="aex"/>
-	<project path="kernel/oneplus/cheeseburger" name="Wino/kernel" remote="github" revision="jenkins" />
-	<project path="device/oneplus/cheeseburger" name="Wino/vendor" remote="github" revision="aex"/>
+	<project path="device/oneplus/cheeseburger" name="Wino/lineage" remote="winoproject" revision="aex"/>
+	<project path="kernel/oneplus/cheeseburger" name="Wino/kernel" remote="winoproject" revision="jenkins" />
+	<project path="device/oneplus/cheeseburger" name="Wino/vendor" remote="winoproject" revision="aex"/>
 </manifest>
