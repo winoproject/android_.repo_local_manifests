@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+        <remote  name="winoproject"
+		fetch="https://github.com/winoproject" />
+	
+
+
+
+
+	<project path="device/oneplus/cheeseburger" name="android_device_oneplus_cheeseburger" remote="winoproject" revision="pex-11"/>
+	<project path="device/oneplus/msm8998" name="android_device_oneplus_msm8998-common" remote="winoproject" revision="pex-11" />
+	<project path="android_vendor_oneplus" name="android_vendor_oneplus" remote="winoproject" revision="pex-11"/>
+    <project path="kernel/oneplus/op5-t" name="lazy_kernel_op5-t" remote="winoproject" revision="custom2-develop"/>
+</manifest>
