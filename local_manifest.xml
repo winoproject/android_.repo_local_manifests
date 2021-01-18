@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<project path="device/oneplus/cheeseburger" name="Wino/lineage" remote="winoproject" revision="aex"/>
-	<project path="kernel/oneplus/cheeseburger" name="Wino/kernel" remote="winoproject" revision="jenkins" />
-	<project path="device/oneplus/cheeseburger" name="Wino/vendor" remote="winoproject" revision="aex"/>
+	<project path="android_device_oneplus_cheeseburger" name="Wino/lineage" remote="winoproject" revision="b pex-11"/>
+	<project path="android_device_oneplus_msm8998-common" name="Wino/msm8998" remote="winoproject" revision="b pex-11" />
+	<project path="android_vendor_oneplus" name="Wino/vendor" remote="winoproject" revision="b pex-11"/>
+        <project path="/ederekun/lazy_kernel_op5-t" name="Wino/kernel" remote="winoproject" revision="custom2-develop"/>
 </manifest>
