@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>	
  
-<remote  name="winoproject"
-        fetch="https://github.com/winoproject" />
-	
+<remote  name="github"
+    fetch="https://github.com" />
 
 
  	<project path="device/xiaomi/shiva" name="winoproject/device_redmi_shiva" remote="github" revision="lineage-17.1"/>
