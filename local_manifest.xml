@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-
-        <remote  name="winoproject"
-		fetch="https://github.com/winoproject" />
+	<remote  name="DhruvChhura"
+		fetch="https://github.com/DhruvChhura" />
 	
+         	
+	
+		
+ 
+ 	<project path="device/xiaomi/ysl" name="android_device_xiaomi_ysl_havoc" remote="DhruvChhura" revision="eleven"/>
+	<project path="kernel/xiaomi/msm8953" name="kernel_xiaomi_cannon" remote="DhruvChhura" revision="cannon" />
+	<project path="vendor/xiaomi" name="xiaomi_vendor_ysl" remote="DhruvChhura" revision="11" />
+        <project path="vendor/MiuiCamera" name="vendor_MiuiCamera" remote="DhruvChhura" revision="ten-ysl"/>
 
-
-
-
-	<project path="device/oneplus/cheeseburger" name="android_device_oneplus_cheeseburger" remote="winoproject" revision="pex-11"/>
-	<project path="device/oneplus/msm8998" name="android_device_oneplus_msm8998-common" remote="winoproject" revision="pex-11" />
-	<project path="android_vendor_oneplus" name="android_vendor_oneplus" remote="winoproject" revision="pex-11"/>
-    <project path="kernel/oneplus/op5-t" name="lazy_kernel_op5-t" remote="winoproject" revision="custom2-develop"/>
 </manifest>
