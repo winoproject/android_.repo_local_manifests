@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>	
  
+<remote  name="winoproject"
+        fetch="https://github.com/winoproject" />
+	
+
+
  	<project path="device/xiaomi/shiva" name="winoproject/device_redmi_shiva" remote="github" revision="lineage-17.1"/>
 	<project path="kernel/xiaomi/kernel" name="winoproject/Xiaomi_Kernel_OpenSource" remote="github" revision="lancelot-q-oss" />
 	<project path="vendor/xiaomi/shiva" name="winoproject/vendor_xiaomi_shiva" remote="github" revision="Lineage" />
