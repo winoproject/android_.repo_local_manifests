@@ -10,6 +10,6 @@
  
  	<project path="device/xiaomi/shiva" name="device_redmi_shiva" remote="winoproject" revision="lineage-17.1"/>
 	<project path="kernel/xiaomi/kernel" name="Xiaomi_Kernel_OpenSource" remote="winoproject" revision="lancelot-q-oss" />
-	<project path="vendor_xiaomi_shiva" name="xiaomi_vendor_ysl" remote="winoproject" revision="11" />
+	<project path="vendor/xiaomi/shiva" name="vendor_xiaomi_shiva" remote="winoproject" revision="Lineage" />
         
 </manifest>
